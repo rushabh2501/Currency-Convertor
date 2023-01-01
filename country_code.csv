@@ -1,0 +1,161 @@
+code,currency,country,capital,lat,long
+AED,UAE Dirham,United Arab Emirates,Abu Dhabi,24.28,54.22
+AFN,Afghan Afghani,Afghanistan,Kabul,34.28,69.11
+ALL,Albanian Lek,Albania,Tirane,41.18,19.49
+AMD,Armenian Dram,Armenia,Yerevan,40.1,44.31
+ANG,Netherlands Antillian Guilder,Netherlands Antilles,Willemstad,12.05,-69
+AOA,Angolan Kwanza,Angola,Luanda,-8.5,13.15
+ARS,Argentine Peso,Argentina,Buenos Aires,-36.3,-60
+AUD,Australian Dollar,Australia,Canberra,-35.15,149.08
+AWG,Aruban Florin,Aruba,Oranjestad,12.32,-70.02
+AZN,Azerbaijani Manat,Azerbaijan,Baku,40.29,49.56
+BAM,Bosnia and Herzegovina Mark,Bosnia and Herzegovina,Sarajevo,43.52,18.26
+BBD,Barbados Dollar,Barbados,Bridgetown,13.05,-59.3
+BDT,Bangladeshi Taka,Bangladesh,Dhaka,23.43,90.26
+BGN,Bulgarian Lev,Bulgaria,Sofia,42.45,23.2
+BHD,Bahraini Dinar,Bahrain,Manama,26.1,50.3
+BIF,Burundian Franc,Burundi,Bujumbura,-3.16,29.18
+BMD,Bermudian Dollar,Bermuda,Bujumbura,-3.16,29.18
+BND,Brunei Dollar,Brunei,Bujumbura,-3.16,29.18
+BOB,Bolivian Boliviano,Bolivia,La Paz (administrative) / Sucre (legislative),-16.2,-68.1
+BRL,Brazilian Real,Brazil,Brasilia,-15.47,-47.55
+BSD,Bahamian Dollar,Bahamas,Nassau,25.05,-77.2
+BTN,Bhutanese Ngultrum,Bhutan,Thimphu,27.31,89.45
+BWP,Botswana Pula,Botswana,Gaborone,-24.45,25.57
+BYN,Belarusian Ruble,Belarus,Minsk,53.52,27.3
+BZD,Belize Dollar,Belize,Belmopan,17.18,-88.3
+CAD,Canadian Dollar,Canada,Ottawa,45.27,-75.42
+CDF,Congolese Franc,Democratic Republic of the Congo,Kinshasa,-4.2,15.15
+CHF,Swiss Franc,Switzerland,Bern,46.57,7.28
+CLP,Chilean Peso,Chile,Santiago,-33.24,-70.4
+CNY,Chinese Renminbi,China,Beijing,39.55,116.2
+COP,Colombian Peso,Colombia,Bogota,4.34,-74
+CRC,Costa Rican Colon,Costa Rica,San Jose,9.55,-84.02
+CUC,Cuban Convertible Peso,Cuba,Havana,23.08,-82.22
+CUP,Cuban Peso,Cuba,Havana,23.08,-82.22
+CVE,Cape Verdean Escudo,Cape Verde,Praia,15.02,-23.34
+CZK,Czech Koruna,Czech Republic,Prague,50.05,14.22
+DJF,Djiboutian Franc,Djibouti,Djibouti,11.08,42.2
+DKK,Danish Krone,Denmark,Copenhagen,55.41,12.34
+DOP,Dominican Peso,Dominican Republic,Copenhagen,55.41,12.34
+DZD,Algerian Dinar,Algeria,Algiers,36.42,3.08
+EGP,Egyptian Pound,Egypt,Cairo,30.01,31.14
+ERN,Eritrean Nakfa,Eritrea,Asmara,15.19,38.55
+ETB,Ethiopian Birr,Ethiopia,Addis Ababa,9.02,38.42
+EUR,Euro,European Union,Addis Ababa,9.02,38.42
+FJD,Fiji Dollar,Fiji,Suva,-18.06,178.3
+FKP,Falkland Islands Pound,Falkland Islands,Suva,-18.06,178.3
+FOK,Faroese Króna,Faroe Islands,Torshavn,62.05,-6.56
+GBP,Pound Sterling,United Kingdom,Torshavn,62.05,-6.56
+GEL,Georgian Lari,Georgia,T'bilisi,41.43,44.5
+GGP,Guernsey Pound,Guernsey,St. Peter Port,49.26,-2.33
+GHS,Ghanaian Cedi,Ghana,Accra,5.35,-0.06
+GIP,Gibraltar Pound,Gibraltar,Accra,5.35,-0.06
+GMD,Gambian Dalasi,The Gambia,Accra,5.35,-0.06
+GNF,Guinean Franc,Guinea,Conakry,9.29,-13.49
+GTQ,Guatemalan Quetzal,Guatemala,Guatemala,14.4,-90.22
+GYD,Guyanese Dollar,Guyana,Georgetown,6.5,-58.12
+HKD,Hong Kong Dollar,Hong Kong,Georgetown,6.5,-58.12
+HNL,Honduran Lempira,Honduras,Tegucigalpa,14.05,-87.14
+HRK,Croatian Kuna,Croatia,Zagreb,45.5,15.58
+HTG,Haitian Gourde,Haiti,Port-au-Prince,18.4,-72.2
+HUF,Hungarian Forint,Hungary,Budapest,47.29,19.05
+IDR,Indonesian Rupiah,Indonesia,Jakarta,-6.09,106.49
+ILS,Israeli New Shekel,Israel,Jerusalem,31.71,-35.1
+IMP,Manx Pound,Isle of Man,Jerusalem,31.71,-35.1
+INR,Indian Rupee,India,New Delhi,28.37,77.13
+IQD,Iraqi Dinar,Iraq,Baghdad,33.2,44.3
+IRR,Iranian Rial,Iran,Baghdad,33.2,44.3
+ISK,Icelandic Króna,Iceland,Reykjavik,64.1,-21.57
+JMD,Jamaican Dollar,Jamaica,Kingston,18,-76.5
+JOD,Jordanian Dinar,Jordan,Amman,31.57,35.52
+JPY,Japanese Yen,Japan,Amman,31.57,35.52
+KES,Kenyan Shilling,Kenya,Nairobi,-1.17,36.48
+KGS,Kyrgyzstani Som,Kyrgyzstan,Bishkek,42.54,74.46
+KHR,Cambodian Riel,Cambodia,Phnom Penh,11.33,104.55
+KID,Kiribati Dollar,Kiribati,Tarawa,1.3,173
+KMF,Comorian Franc,Comoros,Tarawa,1.3,173
+KRW,South Korean Won,South Korea,Tarawa,1.3,173
+KWD,Kuwaiti Dinar,Kuwait,Kuwait,29.3,48
+KYD,Cayman Islands Dollar,Cayman Islands,George Town,19.2,-81.24
+KZT,Kazakhstani Tenge,Kazakhstan,Astana,51.1,71.3
+LAK,Lao Kip,Laos,Astana,51.1,71.3
+LBP,Lebanese Pound,Lebanon,Beirut,33.53,35.31
+LKR,Sri Lanka Rupee,Sri Lanka,Beirut,33.53,35.31
+LRD,Liberian Dollar,Liberia,Monrovia,6.18,-10.47
+LSL,Lesotho Loti,Lesotho,Maseru,-29.18,27.3
+LYD,Libyan Dinar,Libya,Maseru,-29.18,27.3
+MAD,Moroccan Dirham,Morocco,Maseru,-29.18,27.3
+MDL,Moldovan Leu,Moldova,Maseru,-29.18,27.3
+MGA,Malagasy Ariary,Madagascar,Antananarivo,-18.55,47.31
+MKD,Macedonian Denar,North Macedonia,Antananarivo,-18.55,47.31
+MMK,Burmese Kyat,Myanmar,Yangon,16.45,96.2
+MNT,Mongolian Tögrög,Mongolia,Yangon,16.45,96.2
+MOP,Macanese Pataca,Macau,Yangon,16.45,96.2
+MRU,Mauritanian Ouguiya,Mauritania,Nouakchott,-20.1,57.3
+MUR,Mauritian Rupee,Mauritius,Nouakchott,-20.1,57.3
+MVR,Maldivian Rufiyaa,Maldives,Male,4,73.28
+MWK,Malawian Kwacha,Malawi,Lilongwe,-14,33.48
+MXN,Mexican Peso,Mexico,Mexico,19.2,-99.1
+MYR,Malaysian Ringgit,Malaysia,Kuala Lumpur,3.09,101.41
+MZN,Mozambican Metical,Mozambique,Maputo,-25.58,32.32
+NAD,Namibian Dollar,Namibia,Windhoek,-22.35,17.04
+NGN,Nigerian Naira,Nigeria,Abuja,9.05,7.32
+NIO,Nicaraguan Córdoba,Nicaragua,Managua,12.06,-86.2
+NOK,Norwegian Krone,Norway,Oslo,59.55,10.45
+NPR,Nepalese Rupee,Nepal,Kathmandu,27.45,85.2
+NZD,New Zealand Dollar,New Zealand,Wellington,-41.19,174.46
+OMR,Omani Rial,Oman,Masqat,23.37,58.36
+PAB,Panamanian Balboa,Panama,Panama,9,-79.25
+PEN,Peruvian Sol,Peru,Lima,-12,-77
+PGK,Papua New Guinean Kina,Papua New Guinea,Port Moresby,-9.24,147.08
+PHP,Philippine Peso,Philippines,Manila,14.4,121.03
+PKR,Pakistani Rupee,Pakistan,Islamabad,33.4,73.1
+PLN,Polish Złoty,Poland,Warsaw,52.13,21
+PYG,Paraguayan Guaraní,Paraguay,Asuncion,-25.1,-57.3
+QAR,Qatari Riyal,Qatar,Doha,25.15,51.35
+RON,Romanian Leu,Romania,Bucuresti,44.27,26.1
+RSD,Serbian Dinar,Serbia,Bucuresti,44.27,26.1
+RUB,Russian Ruble,Russia,Bucuresti,44.27,26.1
+RWF,Rwandan Franc,Rwanda,Bucuresti,44.27,26.1
+SAR,Saudi Riyal,Saudi Arabia,Riyadh,24.41,46.42
+SBD,Solomon Islands Dollar,Solomon Islands,Honiara,-9.27,159.57
+SCR,Seychellois Rupee,Seychelles,Honiara,-9.27,159.57
+SDG,Sudanese Pound,Sudan,Khartoum,15.31,32.35
+SEK,Swedish Krona,Sweden,Stockholm,59.2,18.03
+SGD,Singapore Dollar,Singapore,Stockholm,59.2,18.03
+SHP,Saint Helena Pound,Saint Helena,Stockholm,59.2,18.03
+SLL,Sierra Leonean Leone,Sierra Leone,Freetown,8.3,-13.17
+SOS,Somali Shilling,Somalia,Mogadishu,2.02,45.25
+SRD,Surinamese Dollar,Suriname,Paramaribo,5.5,-55.1
+SSP,South Sudanese Pound,South Sudan,Paramaribo,5.5,-55.1
+STN,São Tomé and Príncipe Dobra,São Tomé and Príncipe,Paramaribo,5.5,-55.1
+SYP,Syrian Pound,Syria,Paramaribo,5.5,-55.1
+SZL,Eswatini Lilangeni,Eswatini,Paramaribo,5.5,-55.1
+THB,Thai Baht,Thailand,Bangkok,13.45,100.35
+TJS,Tajikistani Somoni,Tajikistan,Dushanbe,38.33,68.48
+TMT,Turkmenistan Manat,Turkmenistan,Ashgabat,38,57.5
+TND,Tunisian Dinar,Tunisia,Tunis,36.5,10.11
+TOP,Tongan Paʻanga,Tonga,Nuku'alofa,-21.1,-174
+TRY,Turkish Lira,Turkey,Ankara,39.57,32.54
+TTD,Trinidad and Tobago Dollar,Trinidad and Tobago,Ankara,39.57,32.54
+TVD,Tuvaluan Dollar,Tuvalu,Funafuti,-8.31,179.13
+TWD,New Taiwan Dollar,Taiwan,Funafuti,-8.31,179.13
+TZS,Tanzanian Shilling,Tanzania,Funafuti,-8.31,179.13
+UAH,Ukrainian Hryvnia,Ukraine,Kiev (Russia),50.3,30.28
+UGX,Ugandan Shilling,Uganda,Kampala,0.2,32.3
+USD,United States Dollar,United States,Kampala,0.2,32.3
+UYU,Uruguayan Peso,Uruguay,Montevideo,-34.5,-56.11
+UZS,Uzbekistani So'm,Uzbekistan,Tashkent,41.2,69.1
+VES,Venezuelan Bolívar Soberano,Venezuela,Caracas,10.3,-66.55
+VND,Vietnamese Đồng,Vietnam,Caracas,10.3,-66.55
+VUV,Vanuatu Vatu,Vanuatu,Port-Vila,-17.45,168.18
+WST,Samoan Tālā,Samoa,Apia,-13.5,-171.5
+XAF,Central African CFA Franc,CEMAC,Apia,-13.5,-171.5
+XCD,East Caribbean Dollar,Organisation of Eastern Caribbean States,Apia,-13.5,-171.5
+XDR,Special Drawing Rights,International Monetary Fund,Apia,-13.5,-171.5
+XOF,West African CFA franc,CFA,Apia,-13.5,-171.5
+XPF,CFP Franc,Collectivités d'Outre-Mer,Apia,-13.5,-171.5
+YER,Yemeni Rial,Yemen,Apia,-13.5,-171.5
+ZAR,South African Rand,South Africa,Pretoria (administrative) / Cape Town (legislative) / Bloemfontein (judicial),-25.44,28.12
+ZMW,Zambian Kwacha,Zambia,Lusaka,-15.28,28.16
